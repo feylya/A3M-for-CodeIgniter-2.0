@@ -37,7 +37,7 @@ select { padding:2px 3px; }
 select.select { width:254px; height:26px; }
 input.checkbox { width:auto; }
 
-.button { font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#f08300; color:#fff; 
+.button { font-family:Arial, Helvetica, sans-serif; font-size:12px; background:#f08300; color:#fff; }
 padding:4px 16px; border:none; text-decoration:none; cursor:pointer; cursor:hand; -moz-border-radius:5px; -webkit-border-radius:5px; }
 .button:hover { background:#fca500; color:#fff; } 
 button.button { padding:3px 13px; }
